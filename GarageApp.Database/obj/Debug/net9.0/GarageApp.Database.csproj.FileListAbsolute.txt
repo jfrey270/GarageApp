@@ -1,0 +1,16 @@
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/bin/Debug/net9.0/GarageApp.Database.deps.json
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/bin/Debug/net9.0/GarageApp.Database.dll
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/bin/Debug/net9.0/GarageApp.Database.pdb
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/bin/Debug/net9.0/GarageApp.Core.dll
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/bin/Debug/net9.0/GarageApp.Core.pdb
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/GarageApp.Database.csproj.AssemblyReference.cache
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/GarageApp.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/GarageApp.Database.AssemblyInfoInputs.cache
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/GarageApp.Database.AssemblyInfo.cs
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/GarageApp.Database.csproj.CoreCompileInputs.cache
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/GarageApp.Database.sourcelink.json
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/GarageAp.B79A065F.Up2Date
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/GarageApp.Database.dll
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/refint/GarageApp.Database.dll
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/GarageApp.Database.pdb
+/Users/jasonf/Developer/Source/GarageApp/GarageApp.Database/obj/Debug/net9.0/ref/GarageApp.Database.dll

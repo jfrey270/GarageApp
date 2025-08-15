@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/bin/Debug/net9.0-ios/iossimulator-arm64/GarageApp.UI.app/libSystem.Net.Security.Native.dylib

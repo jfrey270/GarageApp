@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/bin/Debug/net9.0-maccatalyst/maccatalyst-arm64/GarageApp.UI.app
