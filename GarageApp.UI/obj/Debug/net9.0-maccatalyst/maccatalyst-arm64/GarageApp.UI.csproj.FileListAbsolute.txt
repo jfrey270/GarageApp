@@ -304,8 +304,6 @@
 /Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/GarageApp.UI.pdb
 /Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/GarageApp.UI.genruntimeconfig.cache
 /Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/ref/GarageApp.UI.dll
-/Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/resourcestamps/GarageApp.Core.stamp
-/Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/resourcestamps/GarageApp.Database.stamp
 /Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp
 /Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.Configuration.stamp
 /Users/jasonf/Developer/Source/GarageApp/GarageApp.UI/obj/Debug/net9.0-maccatalyst/maccatalyst-arm64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.stamp

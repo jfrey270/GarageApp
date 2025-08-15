@@ -14,8 +14,9 @@ namespace GarageApp.Core.Models
 		public string? Engine { get; set; } // Required
 		public string? VIN { get; set; } // Optional
 		public int? Miles { get; set; } // Optional
-		public string? PhotoPath { get; set; } // Optional (iOS/iPad only)
-		public string? CloudKitRecordId { get; set; } // For syncing
+	public string? PhotoPath { get; set; } // Optional (iOS/iPad only)
+	public string? TireSize { get; set; } // Optional
+	public string? CloudKitRecordId { get; set; } // For syncing
 
 		[Ignore]
 		public List<Maintenance>? MaintenanceRecords { get; set; }

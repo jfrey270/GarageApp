@@ -11,7 +11,7 @@ namespace GarageApp.Database
         public DatabaseService(string dbPath)
         {
             _db = new SQLiteAsyncConnection(dbPath);
-            _db.CreateTableAsync<Vehicle>().Wait();
+            _db.CreateTableAsync<Vehicle>().Wait(); // Will auto-migrate to add TireSize if not present
             _db.CreateTableAsync<Maintenance>().Wait();
             _db.CreateTableAsync<Repair>().Wait();
             _db.CreateTableAsync<FuelEntry>().Wait();
